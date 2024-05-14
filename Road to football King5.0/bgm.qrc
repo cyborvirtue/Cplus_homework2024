@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>WechatIMG555.png</file>
+        <file>Bingo3.wav</file>
+        <file>zhanv.wav</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>ceeb653ely8h19qzsif67g20cu07pq65.gif</file>
+        <file>WechatIMG585.png</file>
+        <file>succeq.wav</file>
+        <file>bingo11.wav</file>
+        <file>succeelizhi.wav</file>
+        <file>IMG_0113.png</file>
+        <file>WechatIMG586.png</file>
+        <file>WechatIMG587.png</file>
+        <file>succzha.wav</file>
+        <file>WechatIMG589.png</file>
+    </qresource>
+</RCC>
